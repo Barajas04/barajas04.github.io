@@ -8,13 +8,17 @@
 A small text-based adventure game developed for a midterm. Demostrates basic object-oriented programming principles such as: inheritance, encapsulation, and polymorphism.
 
 ---
+
 # Tip Calculator
 <img src="images/tipp.png?raw=true"/>
-A small program that calculates the tip.
+A small program that calculates the tip based on input.
+
 ---
+
 # Madlib
 <img src="images/Madlib.png?raw=true"/>
 A small madlib program.
+
 ---
 
 
