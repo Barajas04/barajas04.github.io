@@ -1,11 +1,11 @@
-## Portfolio
+## Intro to Programming Fall 2022 Portfolio
 
 ---
 
-### Category Name 1 
-
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+# Crumbling Castle
+<img src="images/Screenshot 2022-11-09 235453.png?raw=true"/>
+<img src="images/Screenshot 2022-11-09 235550.png?raw=true"/>
+A small text-based adventure game developed for a midterm. Demostrates basic object-oriented programming principles such as: inheritance, encapsulation, and polymorphism.
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
