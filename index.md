@@ -29,7 +29,7 @@ A small gui program that calculates the tip based on input.
 
 # Store Application
 <img src="images/storeapp.png?raw=true"/>
-A program made in class that lets the user choose from different items to add to a cart. Ending lists the items in the cart along with their prices and the total price.
+A program made in class that lets the user choose from different items to add to a cart. Ending the program lists the items in the cart along with their prices and the total price.
 
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
