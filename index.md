@@ -5,7 +5,7 @@
 # Crumbling Castle
 <img src="images/Screenshot 2022-11-09 235453.png?raw=true"/>
 <img src="images/Screenshot 2022-11-09 235550.png?raw=true"/>
-A small text-based adventure game developed for a midterm. Demostrates basic object-oriented programming principles such as inheritance, encapsulation, and polymorphism. Named after the King Gizzard & The Lizard Wizard song of the same name for no specific reason other than the fact that I was listening to it when thinking of a name.
+A small text-based adventure game developed for a midterm. Demostrates basic object-oriented programming principles such as inheritance, encapsulation, and polymorphism. Certain features include dynamic text, five different endings, and more. Named after the King Gizzard & The Lizard Wizard song of the same name for no specific reason other than the fact that I was listening to it when thinking of a name.
 
 ---
 
