@@ -17,7 +17,7 @@ A small program that calculates the tip based on input.
 
 # Madlib
 <img src="images/Madlib.png?raw=true"/>
-A small madlib program.
+A small madlib program. Takes in strings that replace certain words through concactenation.
 
 ---
 
